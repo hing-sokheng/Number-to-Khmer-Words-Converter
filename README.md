@@ -19,7 +19,7 @@ A simple yet powerful web application that converts numerical digits into Khmer 
 
 ## Usage
 
-1. Open `converter.html` in any modern web browser
+1. Open `index.html` in any modern web browser
 2. Type any number in the input field
 3. See the Khmer word representation instantly below
 
@@ -46,4 +46,4 @@ This project is open source and free to use for any purpose.
 
 ## Author
 
-Created by Codeium
+Created by Sokheng Hing
